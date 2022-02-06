@@ -37,6 +37,8 @@
       <img src="assets/imgs/giff.gif"  alt="Gif Resumo do site"/>
    </p>
 
+    > * Veja o projeto em funcionamento [`aqui`](https://italo-maia.github.io/projeto-hotel-paraiso/). 🧐
+
 <br>
 
 ---
