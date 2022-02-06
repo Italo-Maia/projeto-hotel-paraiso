@@ -40,7 +40,7 @@
 
 <br>
 
-   * Veja o projeto em funcionamento aqui: [Hotel Paraíso](https://github.com/Rocketseat) 🖱.
+   * Veja o projeto em funcionamento aqui: [Hotel Paraíso](https://italo-maia.github.io/projeto-hotel-paraiso/) 🖱.
 
 ---
 
