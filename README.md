@@ -48,3 +48,5 @@
 
 ### Este projeto foi desenvolvido com ❤️ por **[@Italo Maia](https://www.linkedin.com/in/italo-barbosa-maia-8b98b822a/)**, com incentivo **[Node Studios Treinamentos](https://www.linkedin.com/company/node-studio-treinamentos/)** 💜. <br>
 
+
+<br>
